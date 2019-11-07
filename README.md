@@ -2,13 +2,17 @@
 
   1.	Introduction  Brimas media is a printing and branding company that has been in business for a period of time. we are an industry leader and trusted innovator in commercial printing, large format printing, cooperate branding and promotional items. 
   
-  1.1	Goals and Objectives 
+ # 1.1	Goals and Objectives 
   
-  1.1.1 Our vision: To be the one stop Centre, providing excellent and efficient customer care and services to our customers and stake holders.
+  #  1.1.1 Our vision:
+  To be the one stop Centre, providing excellent and efficient customer care and services to our customers and stake holders.
   
-  1.1.2 Our Mission: To avail our clients with the best printing solutions and services at competitive market prices.
+ #   1.1.2 Our Mission:
+ To avail our clients with the best printing solutions and services at competitive market prices.
   
-  1.1.3 Our Purpose: To establish sustainable relationships with our clients, as the leading service provider in the printing, branding and advertising industry.
+  #  1.1.3 Our Purpose:
+  
+  To establish sustainable relationships with our clients, as the leading service provider in the printing, branding and advertising industry.
   
   1.1.4 Core Values: We take initiative to treat our clients with respect. We provide the ultimate solution for your printing needs. Our services are designed to transform the client’s ideas into professional solutions, marketing deliverables and Promotional items.
   
